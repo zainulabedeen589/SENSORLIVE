@@ -1,0 +1,24 @@
+dill
+dnspython
+evidently
+fastapi
+httptools
+imblearn
+mypy-boto3-s3
+pip-chill
+pymongo
+python-dotenv
+types-s3transfer
+uvicorn
+watchfiles
+websockets
+wincertstore
+xgboost
+neuro-mf
+scikit-learn
+streamlit
+pandas
+numpy
+plotly
+
+# # -e .

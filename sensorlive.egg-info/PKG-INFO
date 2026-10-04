@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: sensorlive
+Version: 0.0.1
+Author: Zainul Abedeen
+Author-email: zainulpasha589@gmail.com
+Requires-Dist: pymango
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

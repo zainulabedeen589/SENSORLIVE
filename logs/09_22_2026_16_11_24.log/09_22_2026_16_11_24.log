@@ -1,0 +1,6 @@
+[ 2026-09-22 16:11:27,052 ] 75 uvicorn.error - INFO - Started server process [38025]
+[ 2026-09-22 16:11:27,053 ] 47 uvicorn.error - INFO - Waiting for application startup.
+[ 2026-09-22 16:11:27,053 ] 61 uvicorn.error - INFO - Application startup complete.
+[ 2026-09-22 16:11:27,053 ] 207 uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+[ 2026-09-22 16:12:29,696 ] 29 root - INFO - Starting data ingestion
+[ 2026-09-22 16:12:29,726 ] 25 root - INFO - Exporting data from mongodb to feature store
